@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pomesio
-- 👀 I’m interested in BigData and DataEngineering ⚙️
+- 👋 Hi, I’m @pomesio :yellow_heart:
+- 👀 I’m interested in BigData and DataEngineering :sparkles:
 - 🌱 I’m currently learning _**C-programming**_ at _**42 Barcelona**_
-- 📫 How to reach me [_**LinkedIn**_](https://www.linkedin.com/in/jardelc/ "LinkedIn") 🧑🏽‍💻
+- 📫 How to reach me [_**LinkedIn**_](https://www.linkedin.com/in/jardelc/ "LinkedIn") :
 
 <!---
 pomesio/pomesio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
