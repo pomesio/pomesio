@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pomesio
 - 👀 I’m interested in BigData and DataEngineering
-- 🌱 I’m currently learning C-programming at 42 Barcelona
+- 🌱 I’m currently learning** C-programming**__ at _**42 Barcelona**_
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jardelc/ "LinkedIn")
 
 <!---
